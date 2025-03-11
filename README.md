@@ -1,3 +1,5 @@
+This is copied from the PDF file so I strongly suggest you to read the Excersize2_IC00AI83.pdf file.
+
 Berk Emre Mert
 bmert24@student.oulu.fi
 
